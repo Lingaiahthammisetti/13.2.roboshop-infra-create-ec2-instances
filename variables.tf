@@ -10,7 +10,7 @@ variable "instances" {
         cart       = "t3.micro"
         shipping   = "t3.medium"
         payment    = "t3.micro"
-        dispatch   = "t3.micro"
+        #dispatch   = "t3.micro"
         frontend   = "t3.micro"
         }
 }
